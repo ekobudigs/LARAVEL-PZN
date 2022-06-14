@@ -1,0 +1,15 @@
+membuat file config cache agar laravel lebih cepat
+
+php artisan config:cache 
+
+ingin menghapus
+php artisan config:clear
+
+
+
+ php artisan view:cache
+untuk melakukan compile templade blade untuk optimazi agar laravel lebih cepat
+
+npm run prod
+fungsinya untuk melakukan compile file css dan js di folder resource agar lebih ringan dan simpel, ini adalah
+dari nodejs
